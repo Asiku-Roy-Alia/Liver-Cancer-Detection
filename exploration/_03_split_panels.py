@@ -1,5 +1,5 @@
 """
-split_panels.py
+_03_split_panels.py
 ----------------------------------
 Processes the DICOM manifest to account for split two-panel images.
 It identifies entries where 'b-mode_ceus' is "b-mode ceus", and if
