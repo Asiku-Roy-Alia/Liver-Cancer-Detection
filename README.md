@@ -1,6 +1,9 @@
 # Cancer Detection Pipeline
 
-This repository contains the code and resources for a complete biomedical ultrasound imaging pipeline, from raw DICOM files through data exploration, preprocessing, model training, and deployment.
+This repository contains the code and resources for a complete biomedical ultrasound imaging pipeline, from raw DICOM files through data exploration, preprocessing, model training, and deployment. 
+
+## Data Source
+The primary data source for this project is the [Cancer Imaging Archive](https://nbia.cancerimagingarchive.net/nbia-search/). Filter by Body Part Examined : Liver and Imaging modality: US (Ultrasound).
 
 ## Project Overview
 
